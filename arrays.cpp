@@ -1,3 +1,8 @@
+//* IMPORTANT POINTS:   
+
+// 1. max size of an array that can be declared inside of main function of type -> int, double, char is: 10^6, whereas for -> bool, it is 10^7
+// 2. max size of an array that can be declared globally of type -> int, double, char is: 10^7, whereas for -> bool, it is 10^8
+
 #include <bits/stdc++.h>
 using namespace std;
 
