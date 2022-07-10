@@ -32,7 +32,7 @@ int main() {
 
     // st.erase(st.begin(), st.begin() + 2); // --> [)
 
-    // st.erase(3); // st.erase(key) --> delete the 5
+    // st.erase(3); // st.erase(key) --> delete the 3
 
     //* find the iterator
 
